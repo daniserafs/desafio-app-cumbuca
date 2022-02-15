@@ -1,0 +1,1 @@
+No terminal: `expo start`
